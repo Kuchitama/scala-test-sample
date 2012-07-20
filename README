@@ -1,5 +1,7 @@
 This sample is testing for scala with Specs2 and Mockito.
 This shows how to test of scala object with Mockito.
+This project is using sbt.
 
 ScalaでSpecs2とMockitoを用いてテストを行う際のサンプルです。
 このサンプルでは、Scalaのobjectの挙動をモックってテストする方法について書かれています。
+このプロジェクトはsbtを用いています。
